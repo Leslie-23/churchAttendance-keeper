@@ -30,10 +30,10 @@ This is a simple web-based tool for calculating church attendance. It allows you
 - `README.md`: This file providing information about the project.
 
   ## view a live demo of the site at
-   `https://earnest-torte-1bf0b3.netlify.app/`
+   `earnest-torte-1bf0b3.netlify.app`
 
 ## Author
 
 Leslie Ajayi
 ## feel free to collaborate or contribute to this repo. 
-  `https://earnest-torte-1bf0b3.netlify.app/`
+  `  `
